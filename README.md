@@ -1,0 +1,1 @@
+# carlofontanos-atom-editor-setup
